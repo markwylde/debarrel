@@ -1,0 +1,27 @@
+{
+  "name": "deferred-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+  },
+  "dependencies": {
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markwylde/deferred-cache.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markwylde/deferred-cache/issues"
+  },
+  "homepage": "https://github.com/markwylde/deferred-cache#readme",
+  "description": "A library for NodeJS that allows you to accumulate a load of changes, then run a function after a set amount of time with those changes."
+}
