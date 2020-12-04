@@ -9,7 +9,7 @@
   "author": "",
   "license": "AGPL-3.0",
   "devDependencies": {
-    "basictap": "^1.1.8",
+    "basictap": "^1.1.10",
     "c8": "^7.3.5"
   },
   "dependencies": {},
