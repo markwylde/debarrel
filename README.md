@@ -23,7 +23,7 @@ let total = 0;
 const watch = debarrel(function () {
   console.log('total:', total);
 }, {
-  debounceTime: 100,
+  minimumFlushTime: 100,
   maximumFlushTime: 2000
 })
 
