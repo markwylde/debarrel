@@ -1,8 +1,8 @@
 # debarrel
-![Node.js Test Runner](https://github.com/markwylde/debarrel/workflows/Node.js%20Test%20Runner/badge.svg)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/markwylde/debarrel)
-[![GitHub package.json version](https://img.shields.io/github/package-json/v/markwylde/debarrel)](https://github.com/markwylde/debarrel/releases)
-[![GitHub](https://img.shields.io/github/license/markwylde/debarrel)](https://github.com/markwylde/debarrel/blob/master/LICENSE)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/markwylde/debarrel?style=flat-square)
+[![GitHub package.json version](https://img.shields.io/github/package-json/v/markwylde/debarrel?style=flat-square)](https://github.com/markwylde/debarrel/blob/master/package.json)
+[![GitHub](https://img.shields.io/github/license/markwylde/debarrel?style=flat-square)](https://github.com/markwylde/debarrel/blob/master/LICENSE)
+[![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/standard/semistandard)
 
 A library for NodeJS that allows you to accumulate a load of changes, then run a function
 after a set amount of time with those changes.
