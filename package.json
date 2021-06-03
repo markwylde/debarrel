@@ -7,7 +7,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "devDependencies": {
     "basictap": "^1.1.10",
     "c8": "^7.3.5"
